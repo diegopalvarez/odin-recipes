@@ -1,0 +1,41 @@
+*{
+    font-family: Tahoma, "Trebuchet MS", sans-serif;
+    margin: 20px;
+}
+
+h1.title{
+    font-size: 60px;
+    text-align: center;
+    color: orange;
+}
+
+#index li{
+    font-size: 20px;
+    line-height: 30px;
+}
+
+body.main{
+    background-color: lightyellow;
+}
+
+h2{
+    font-size: 35px;
+    color: orangered;
+}
+
+img.featured{
+    height: auto;
+    width: 750px;
+}
+
+#foreign{
+    background-color: rgba(223, 100, 62, 0.3);
+}
+
+#pasta{
+    background-color: rgba(255, 255, 0, 0.3)
+}
+
+#dessert{
+    background-color: rgba(153, 205, 50, 0.4);
+}
